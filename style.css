@@ -1,0 +1,49 @@
+  .heading
+  {
+    font-size:18px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    float:none;
+    padding: 10px;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .Object
+  {
+    
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .Accuracy
+  {
+    
+    box-shadow:5px 5px 5px orangered;
+    font-size: 20px;
+  }
+  .copy_right_footer
+  {
+    position:fixed ;
+    bottom: 0;
+    text-align:center;
+    width: 100%;
+    background-color: black;
+  color:white
+  }
+  canvas
+  {
+    border:5px solid orange;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px yellow  ;
+    margin-top: 170px;
+  }
+ 
